@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+body {
+  font-family: 'Lato';
+  line-height: 1.5;
+}
+
+ul {
+    padding-left: 0;
+}
